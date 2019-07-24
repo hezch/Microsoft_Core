@@ -12,3 +12,17 @@ C:\Users\PC-H127\source\repos\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.A
 C:\Users\PC-H127\source\repos\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
 C:\Users\PC-H127\source\repos\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
 C:\Users\PC-H127\source\repos\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
+C:\HECode\0724Core\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\HECode\0724Core\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\HECode\0724Core\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\HECode\0724Core\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\HECode\0724Core\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\HECode\0724Core\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
